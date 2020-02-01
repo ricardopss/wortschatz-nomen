@@ -1,4 +1,4 @@
-baseURL = 'https://wortschatz-adverb.netlify.com/'
+baseURL = 'https://wortschatz-nomen.netlify.com/'
 title = 'deutscher Wortschatz'
 theme = 'book'
 publishDir = 'docs'
