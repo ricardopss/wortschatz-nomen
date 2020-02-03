@@ -1,3 +1,4 @@
 [build.environment]
   HUGO_VERSION = "0.62.2"
   HUGO_THEME = "book"
+  NODE_OPTIONS = "--max_old_space_size=4096"
